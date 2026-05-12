@@ -2,7 +2,7 @@
 
 Developed an end-to-end Adventure Works Sales Analysis Dashboard using Power BI to analyze sales performance, customer behavior, product trends, and business KPIs. The project involved the complete Business Intelligence workflow, starting from dataset collection from Kaggle to data transformation, modeling, visualization, and dashboard publishing in Power BI Service.
 
-**Project Workflow : **
+**Project Workflow** :
 
 
 ->Extracted the Adventure Works dataset from Kaggle
