@@ -69,4 +69,4 @@ The objective of this project was to transform raw business sales data into an i
 ![Image Alt](https://github.com/vinaybarad/Adventure-Works-Sales-Analysis-Dashboard/blob/d25f3ffbaa69b2e8b79e5eb101e054e87b25d130/Screenshot%202026-03-09%20151806.png)
 ![Image Alt](https://github.com/vinaybarad/Adventure-Works-Sales-Analysis-Dashboard/blob/f3ee782b5f432ab26599a7cca89a04423ce81a89/Screenshot%202026-03-09%20151830.png)
 ![Image Alt](https://github.com/vinaybarad/Adventure-Works-Sales-Analysis-Dashboard/blob/8bc0d46bf7a6aca20c19dfeb72abfdfeea16dc1d/Screenshot%202026-03-09%20151847.png)
-![Image Alt](https://github.com/vinaybarad/Adventure-Works-Sales-Analysis-Dashboard/blob/d25f3ffbaa69b2e8b79e5eb101e054e87b25d130/Screenshot%202026-03-09%20151806.png)
+![Image Alt](https://github.com/vinaybarad/Adventure-Works-Sales-Analysis-Dashboard/blob/ee06857c3b39db242cc8693439f411218c28a66a/Screenshot%202026-04-06%20092445.png)
