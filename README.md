@@ -4,6 +4,7 @@ Developed an end-to-end Adventure Works Sales Analysis Dashboard using Power BI 
 
 **Project Workflow : 
 **
+
 ->Extracted the Adventure Works dataset from Kaggle
 
 ->Performed data cleaning, preprocessing, and transformation using Power Query Editor
@@ -22,8 +23,8 @@ Developed an end-to-end Adventure Works Sales Analysis Dashboard using Power BI 
 
 ->Published the final dashboard to Power BI Service for online access and report sharing
 
-****Features Included :
-****
+**Features Included :
+**
 
 ->Sales & Profit Analysis
 
