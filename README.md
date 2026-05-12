@@ -67,6 +67,6 @@ Power BI, DAX, Power Query, Dashboard Development, Data Modeling, Business Intel
 The objective of this project was to transform raw business sales data into an interactive Business Intelligence dashboard that provides actionable insights, improves reporting efficiency, and supports strategic business decision-making through data-driven analytics.
 
 ![Image Alt](https://github.com/vinaybarad/Adventure-Works-Sales-Analysis-Dashboard/blob/d25f3ffbaa69b2e8b79e5eb101e054e87b25d130/Screenshot%202026-03-09%20151806.png)
-![Image Alt](https://github.com/vinaybarad/Adventure-Works-Sales-Analysis-Dashboard/blob/d25f3ffbaa69b2e8b79e5eb101e054e87b25d130/Screenshot%202026-03-09%20151806.png)
+![Image Alt](https://github.com/vinaybarad/Adventure-Works-Sales-Analysis-Dashboard/blob/f3ee782b5f432ab26599a7cca89a04423ce81a89/Screenshot%202026-03-09%20151830.png)
 ![Image Alt](https://github.com/vinaybarad/Adventure-Works-Sales-Analysis-Dashboard/blob/d25f3ffbaa69b2e8b79e5eb101e054e87b25d130/Screenshot%202026-03-09%20151806.png)
 ![Image Alt](https://github.com/vinaybarad/Adventure-Works-Sales-Analysis-Dashboard/blob/d25f3ffbaa69b2e8b79e5eb101e054e87b25d130/Screenshot%202026-03-09%20151806.png)
