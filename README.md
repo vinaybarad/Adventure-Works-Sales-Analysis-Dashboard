@@ -65,3 +65,5 @@ Power BI, DAX, Power Query, Dashboard Development, Data Modeling, Business Intel
 **Project Objective :**
 
 The objective of this project was to transform raw business sales data into an interactive Business Intelligence dashboard that provides actionable insights, improves reporting efficiency, and supports strategic business decision-making through data-driven analytics.
+
+![Image Alt](image_url)
