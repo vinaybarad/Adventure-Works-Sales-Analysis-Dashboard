@@ -22,8 +22,9 @@ Developed an end-to-end Adventure Works Sales Analysis Dashboard using Power BI 
 
 ->Published the final dashboard to Power BI Service for online access and report sharing
 
-**Features Included :
-**
+****Features Included :
+****
+
 ->Sales & Profit Analysis
 
 ->Customer Performance Tracking
@@ -54,11 +55,11 @@ Developed an end-to-end Adventure Works Sales Analysis Dashboard using Power BI 
 
 ->Data Visualization
 
-->Business Intelligence Reporting
+->Business Intelligence Reporting.
 
 **Skills Gained :**
 
-Power BI, DAX, Power Query, Dashboard Development, Data Modeling, Business Intelligence, Data Visualization, KPI, Reporting, ETL Process, Analytical Reporting
+Power BI, DAX, Power Query, Dashboard Development, Data Modeling, Business Intelligence, Data Visualization, KPI, Reporting, ETL Process, Analytical Reporting.
 
 **Project Objective :**
 
